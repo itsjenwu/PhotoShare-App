@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 
 /**
- * Created by chien on 4/15/2017.
+ * Created by jen on 4/15/2017.
  */
 
 public class Photo implements Parcelable {
