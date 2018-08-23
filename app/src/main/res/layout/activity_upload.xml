@@ -77,7 +77,7 @@
         android:layout_marginTop="7dp"
         design:layout_constraintLeft_toLeftOf="parent"
         design:layout_constraintTop_toTopOf="parent"
-        tools:context="com.example.chien.photoshare.MainActivity"
+        tools:context="com.example.chien.photoShare.MainActivity"
         android:layout_marginStart="8dp">
 
 

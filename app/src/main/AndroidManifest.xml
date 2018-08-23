@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.chien.photoshare">
+    package="com.example.chien.photoShare">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -18,8 +18,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.example.chien.photoshare.MainActivity"></activity>
-        <activity android:name="com.example.chien.photoshare.LoginActivity">
+        <activity android:name="com.example.chien.photoShare.MainActivity"></activity>
+        <activity android:name="com.example.chien.photoShare.LoginActivity">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,8 +28,8 @@
             </intent-filter>
 
         </activity>
-        <activity android:name="com.example.chien.photoshare.UploadActivity"></activity>
-        <activity android:name="com.example.chien.photoshare.AccountActivity"></activity>
+        <activity android:name="com.example.chien.photoShare.UploadActivity"></activity>
+        <activity android:name="com.example.chien.photoShare.AccountActivity"></activity>
 
 
         <provider
