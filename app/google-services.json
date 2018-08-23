@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504460971013",
+    "firebase_url": "https://photoshare-f2ee8.firebaseio.com",
+    "project_id": "photoshare-f2ee8",
+    "storage_bucket": "photoshare-f2ee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504460971013:android:0aadc9037d01f36c",
+        "android_client_info": {
+          "package_name": "com.example.chien.photoshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504460971013-j0t37hd4h0cdqs59sbucu67ittsq5bml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chien.photoshare",
+            "certificate_hash": "7ff309d95a2731e1ba72404c9dbabbc87ecb1b15"
+          }
+        },
+        {
+          "client_id": "504460971013-j3qagmkr9h5spf52m5c1uqfe7n7iqjro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1ZqogOIv1gkZtYZ_eo5Yy78wUZiEbtc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504460971013-j3qagmkr9h5spf52m5c1uqfe7n7iqjro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
