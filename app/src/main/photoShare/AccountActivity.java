@@ -35,6 +35,7 @@ public class AccountActivity extends AppCompatActivity {
     public Photo currentPhotoUser;
     public String currentPhotoUserId;
 
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
